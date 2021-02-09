@@ -2,7 +2,7 @@ body{
     background-color: #dff9fb;
     margin: 0;
     min-height: 100vh;
-    color: white;
+    color: #8395a7;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -10,10 +10,10 @@ body{
 }
 
 .container{
-    background-color: #009977;
+    background-color: #ffffff;
     padding: 3rem;
     border-radius: 1rem;
-    border: 2px solid black;
+    border: 2px solid #d1d8e0;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -30,6 +30,7 @@ body{
 }
 
 .title{
+    color: #00b894;
     margin: 0;
     text-align: center;
 }
@@ -37,6 +38,10 @@ body{
 .character-amount-container{
     display: flex;
     align-items: center;
+}
+
+.range{
+    color: yellow;
 }
 
 .number-input{
@@ -47,7 +52,7 @@ body{
     background-color: white;
     color: black;
     padding: 1rem;
-    border: 1px solid #333;
+    border: 1px solid #00b894;
     height: 2rem;
     width: 350px;
     display: flex;
@@ -58,8 +63,8 @@ body{
 }
 .btn{
     grid-column: span 2;
-    background-color: transparent;
-    border: 2px solid white;
+    background-color: #00b894;
+    border: 1px solid white;
     color: white;
     padding: .5rem 1rem;
     font-weight: bold;
@@ -67,5 +72,5 @@ body{
     border-radius: 1rem;
 }
 .btn:hover{
-    background-color: #FFFFFF33;
+    background-color: #1dd1a1;
 }
