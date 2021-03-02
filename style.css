@@ -30,7 +30,7 @@ body{
 }
 
 .title{
-    color: #00b894;
+    color: teal;
     margin: 0;
     text-align: center;
 }
@@ -52,7 +52,7 @@ body{
     background-color: white;
     color: black;
     padding: 1rem;
-    border: 1px solid #00b894;
+    border: 1px solid teal;
     height: 2rem;
     width: 350px;
     display: flex;
@@ -63,7 +63,7 @@ body{
 }
 .btn{
     grid-column: span 2;
-    background-color: #00b894;
+    background-color: teal;
     border: 1px solid white;
     color: white;
     padding: .5rem 1rem;
