@@ -53,3 +53,4 @@ function syncCharacterAmount(e) {
   characterAmountRange.value = value
 }
 
+// END OF CODE
