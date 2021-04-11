@@ -31,20 +31,16 @@ body{
     margin: 0;
     text-align: center;
 }
-
 .character-amount-container{
     display: flex;
     align-items: center;
 }
-
 .range{
     color: yellow;
 }
-
 .number-input{
     width: 2rem;
 }
-
 .password-display{
     background-color: white;
     color: black;
