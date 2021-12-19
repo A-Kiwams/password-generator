@@ -9,7 +9,7 @@ body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .container{
-    background-color: #ffffff;
+    background-color: white;
     padding: 3rem;
     border-radius: 1rem;
     border: 2px solid #d1d8e0;
